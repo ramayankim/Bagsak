@@ -1,5 +1,5 @@
 
-name = 'LoveU'
+name = 'BAGSAK'
 print('\n'.join
 ([''.join
 ([(name[(x-y)%len(name)] 
